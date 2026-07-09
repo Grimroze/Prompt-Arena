@@ -1,6 +1,6 @@
 # ⚔️ Prompt Arena: The Art of Prompt Engineering
 
-Welcome to **Prompt Arena**, a cutting-edge Agentic AI application designed to evaluate the power of **Prompt Engineering**. The core intention of this project is **not** just to pit AI models against each other, but to demonstrate how **different prompts drastically affect the output of the same user query**.
+An Agentic AI application designed to evaluate the power of **Prompt Engineering**. The core intention of this project is **not** just to pit AI models against each other, but to demonstrate how **different prompts drastically affect the output of the same user query**.
 
 By comparing how an LLM reacts to Prompt A vs Prompt B for the exact same question, developers can master the art of prompt design, discover best practices, and observe the nuanced behaviors of Large Language Models.
 
