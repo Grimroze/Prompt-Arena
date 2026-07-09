@@ -1,5 +1,5 @@
 # ⚔️ Prompt Arena: The Art of Prompt Engineering
-# check it out at : https://promptbench.streamlit.app/
+## check it out at : https://promptbench.streamlit.app/
 
 An Agentic AI application designed to evaluate the power of **Prompt Engineering**. The core intention of this project is **not** just to pit AI models against each other, but to demonstrate how **different prompts drastically affect the output of the same user query**.
 
