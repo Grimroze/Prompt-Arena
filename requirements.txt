@@ -16,3 +16,4 @@ psycopg[binary]
 langgraph-checkpoint-postgres
 better_profanity
 langchain-groq
+duckduckgo-search
